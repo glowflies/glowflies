@@ -1,5 +1,17 @@
-# Hi there 👋
+### 𝕴𝖓𝖙𝖊𝖗𝖊𝖘𝖙𝖘
+```
+♱ Ergo Proxy
 
+♱ Beserk
+
+♱ Marvel + DC
+  
+♱ Hellsing
+ 
+♱ Castlevania
+```
+  <p align="right"><sup>(plus more crap)</sup></p>
+	
 <!--
 **glowflies/glowflies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
